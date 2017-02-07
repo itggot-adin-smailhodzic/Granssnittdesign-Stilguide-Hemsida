@@ -29,7 +29,7 @@ body {
 }
 
 .text {
-  margin: 10px;
+  margin: 20px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -76,7 +76,14 @@ body {
   justify-content: center;
   font-size: 2vh;
   font-family: "Lucida Sans", sans-serif;
-  margin: 1%
+  margin: 1%;
+  margin-top: -1.1%;
+}
+
+.article {
+  height: 30%;
+  background-color: #EEE;
+  margin: 10px;
 }
 
 #nav_active {
@@ -94,7 +101,7 @@ body {
   color: white;
   font-family: "Lucida Sans", sans-serif;
   margin: 1%;
-  margin-top: -1%;
+  margin-top: -1.2%;
 }
 
 #main {
